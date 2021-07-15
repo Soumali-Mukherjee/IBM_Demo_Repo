@@ -8,4 +8,7 @@ public class Calculator{
 	public static boolean isEven(int n){
 		return n%2 == 0;
 	}
+	public static void sayHello(){
+		System.out.println("Hello world!");
+	}
 }
